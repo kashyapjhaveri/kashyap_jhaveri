@@ -10099,6 +10099,14 @@ section.resume-section .resume-section-content {
   width: 100%;
 }
 
+section.resume-section .resume-section-content .list-inline .list-inline-item{
+  text-align: center;
+}
+
+section.resume-section .resume-section-content .list-inline .list-inline-item p {
+  font-size: initial;
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
